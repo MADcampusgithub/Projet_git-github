@@ -5,8 +5,8 @@
     {
         function Index()
         {
-            $calculNul = 3 + 3 * 4;
-            return $calculNul;
+            // $calculNul = 3 + 3 * 4; lul
+            // return $calculNul;
         }
     }
 ?>
